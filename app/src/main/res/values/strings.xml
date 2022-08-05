@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ListView_2</string>
+    <string-array name="city">
+        <item>臺北市</item>
+        <item>基隆市</item>
+        <item>桃園市</item>
+    </string-array>
+    <string-array name="taipei">
+        <item>中正區100</item>
+        <item>大同區103</item>
+        <item>中山區104</item>
+        <item>松山區105</item>
+        <item>大安區106</item>
+        <item>萬華區108</item>
+        <item>信義區110</item>
+        <item>士林區111</item>
+        <item>北投區112</item>
+        <item>內湖區114</item>
+        <item>南港區115</item>
+        <item>文山區116</item>
+    </string-array>
+    <string-array name="Keelung">
+        <item>仁愛區200</item>
+        <item>信義區201</item>
+        <item>中正區202</item>
+        <item>中山區203</item>
+        <item>安樂區204</item>
+        <item>暖暖區205</item>
+        <item>七堵區206</item>
+    </string-array>
+    <string-array name="tauyuan">
+        <item>中壢區320</item>
+        <item>平鎮區324</item>
+        <item>龍潭區325</item>
+        <item>楊梅區326</item>
+        <item>新屋區327</item>
+        <item>觀音區328</item>
+        <item>桃園區330</item>
+        <item>龜山區333</item>
+        <item>八德區334</item>
+        <item>大溪區335</item>
+        <item>復興區336</item>
+        <item>大園區337</item>
+        <item>蘆竹區338</item>
+    </string-array>
+</resources>
