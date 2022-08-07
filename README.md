@@ -1,5 +1,18 @@
 # 學 ListView 元件
 > [2022-08-05 Android課程]
+
+## project : ListView_2
+主要目的是建立縣市名稱下拉選單和對應的縣市鄉鎮市區清單，
+因每個縣市有不同數量的鄉鎮市區，所以會使用到不定長度的資料結構儲存鄉鎮市區名稱，
+使用者點選縣市名稱後，會顯示對應的縣市鄉鎮市區清單，點選鄉鎮市區名稱後，會用Toast顯示此鄉鎮市區的名稱與郵遞區號。
+
+![Screenshot_1659860957](https://user-images.githubusercontent.com/37395516/183282863-28a58641-72eb-4102-9a4f-67f41869a5db.png)
+![Screenshot_1659860960](https://user-images.githubusercontent.com/37395516/183282865-6bb22a65-a27e-412d-8ccf-044de38a1cc6.png)
+
+![Screenshot_1659860963](https://user-images.githubusercontent.com/37395516/183282873-5fe6ec0b-49e9-4fb3-ade5-eb695b98db45.png)
+![Screenshot_1659860967](https://user-images.githubusercontent.com/37395516/183282877-2f6d03b4-7ea0-463c-be35-b43556ddb42a.png)
+
+
 ### 0. 開新的project , 取名為 "ListView_2"
 ### 1. strings.xml 新增郵遞區號 
 ```
